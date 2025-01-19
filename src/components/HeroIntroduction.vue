@@ -3,7 +3,7 @@
     <div class="container">
       <div class="max-w-3xl">
         <h1 class="text-5xl font-bold mb-6 text-gray-900 dark:text-white" style="color: var(--primary-color)">
-          Welcome to My Portfolio
+          Welcome to my simple Site
         </h1>
         <p class="text-xl text-gray-600 dark:text-gray-300 mb-8">
           I'm a passionate developer creating amazing digital experiences.
